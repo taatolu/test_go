@@ -1,0 +1,68 @@
+2024/05/11 18:31:55 main.go:12: this is a Test
+2024/05/18 15:27:25 main.go:12: this is a Test
+2024/05/18 15:27:26 main.go:12: this is a Test
+2024/05/18 15:28:19 main.go:12: this is a Test
+2024/05/18 15:34:08 main.go:12: this is a Test
+2024/05/18 15:50:23 main.go:12: this is a Test
+2024/05/18 16:01:49 main.go:12: this is a Test
+2024/05/18 16:03:46 main.go:12: this is a Test
+2024/05/18 16:04:52 main.go:12: this is a Test
+2024/05/18 16:05:34 main.go:12: this is a Test
+2024/05/18 16:06:40 main.go:12: this is a Test
+2024/05/18 16:12:11 main.go:12: this is a Test
+2024/05/18 16:15:03 main.go:12: this is a Test
+2024/05/18 16:15:32 main.go:12: this is a Test
+2024/05/18 16:15:47 main.go:12: this is a Test
+2024/05/18 16:15:47 main.go:12: this is a Test
+2024/05/18 17:56:34 base.go:39: dial tcp: address tcp/%!s(int=5432): unknown port
+2024/05/18 17:56:36 base.go:39: dial tcp: address tcp/%!s(int=5432): unknown port
+2024/05/18 17:57:49 base.go:39: pq: database "tsetdb" does not exist
+2024/05/18 17:57:50 base.go:39: pq: database "tsetdb" does not exist
+2024/05/18 18:00:27 main.go:12: this is a Test
+2024/05/18 18:59:04 main.go:12: this is a Test
+2024/05/18 19:00:52 main.go:12: this is a Test
+2024/05/18 19:01:50 main.go:12: this is a Test
+2024/05/19 07:10:25 main.go:12: this is a Test
+2024/05/19 07:14:36 main.go:12: this is a Test
+2024/05/19 07:18:43 main.go:12: this is a Test
+2024/05/19 07:21:23 main.go:12: this is a Test
+2024/05/19 07:21:36 main.go:12: this is a Test
+2024/05/19 07:22:24 main.go:12: this is a Test
+2024/05/19 07:22:26 main.go:12: this is a Test
+2024/05/19 08:58:35 main.go:12: this is a Test
+2024/05/19 09:00:03 main.go:12: this is a Test
+2024/05/19 09:00:53 main.go:12: this is a Test
+2024/05/19 09:06:40 main.go:12: this is a Test
+2024/05/19 09:09:38 main.go:12: this is a Test
+2024/05/19 09:24:32 main.go:12: this is a Test
+2024/06/09 10:22:50 main.go:12: this is a Test
+2024/06/09 10:23:50 main.go:12: this is a Test
+2024/06/09 10:26:23 main.go:12: this is a Test
+2024/06/09 10:26:44 main.go:12: this is a Test
+2024/06/09 10:26:45 main.go:12: this is a Test
+2024/06/09 10:38:10 main.go:12: this is a Test
+2024/06/09 10:41:24 main.go:12: this is a Test
+2024/06/09 10:54:37 main.go:12: this is a Test
+2024/06/09 10:55:43 main.go:12: this is a Test
+2024/06/09 10:56:05 main.go:12: this is a Test
+2024/06/09 10:58:59 main.go:12: this is a Test
+2024/06/09 11:00:39 main.go:12: this is a Test
+2024/06/09 11:02:05 main.go:12: this is a Test
+2024/06/09 11:03:16 main.go:12: this is a Test
+2024/06/09 11:08:35 main.go:12: this is a Test
+2024/06/09 11:09:35 main.go:12: this is a Test
+2024/06/09 11:10:03 main.go:12: this is a Test
+2024/06/09 11:16:04 main.go:12: this is a Test
+2024/06/09 11:20:31 main.go:12: this is a Test
+2024/06/09 11:20:31 users.go:34: pq: column "uuid" of relation "users" does not exist
+2024/06/09 11:20:32 main.go:12: this is a Test
+2024/06/09 11:20:32 users.go:34: pq: column "uuid" of relation "users" does not exist
+2024/06/09 11:31:36 base.go:46: pq: type "varchae" does not exist
+2024/06/09 11:31:44 base.go:46: pq: type "varchae" does not exist
+2024/06/09 11:32:18 main.go:12: this is a Test
+2024/06/09 11:32:18 users.go:34: pq: column "created_at" of relation "users" does not exist
+2024/06/09 11:32:22 main.go:12: this is a Test
+2024/06/09 11:32:22 users.go:34: pq: column "created_at" of relation "users" does not exist
+2024/06/09 11:32:40 main.go:12: this is a Test
+2024/06/09 11:32:41 main.go:12: this is a Test
+2024/06/09 11:34:58 main.go:12: this is a Test
