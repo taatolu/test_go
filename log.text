@@ -66,3 +66,36 @@
 2024/06/09 11:32:40 main.go:12: this is a Test
 2024/06/09 11:32:41 main.go:12: this is a Test
 2024/06/09 11:34:58 main.go:12: this is a Test
+2024/07/14 10:52:41 base.go:46: dial tcp 192.168.96.2:5432: connect: connection refused
+2024/07/14 11:03:18 main.go:12: this is a Test
+2024/07/14 11:03:18 main.go:28: pq: syntax error at or near "SELET"
+2024/07/14 11:04:01 main.go:12: this is a Test
+2024/07/14 11:33:08 main.go:12: this is a Test
+2024/07/14 14:29:22 main.go:12: this is a Test
+2024/07/14 14:38:42 main.go:12: this is a Test
+2024/07/14 15:21:54 main.go:12: this is a Test
+2024/07/14 15:21:54 todos.go:25: pq: syntax error at or near "SERIAL"
+2024/07/14 15:22:59 main.go:12: this is a Test
+2024/07/14 15:22:59 todos.go:24: pq: syntax error at or near "VARCHAR"
+2024/07/14 15:23:41 main.go:12: this is a Test
+2024/07/14 15:23:41 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 15:27:50 main.go:12: this is a Test
+2024/07/14 15:27:50 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 15:38:11 main.go:12: this is a Test
+2024/07/14 15:56:52 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 16:04:18 main.go:12: this is a Test
+2024/07/14 16:04:18 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 16:06:37 main.go:12: this is a Test
+2024/07/14 16:07:08 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 16:12:26 main.go:12: this is a Test
+2024/07/14 16:15:41 todos.go:24: pq: syntax error at or near "userid"
+2024/07/14 16:23:37 main.go:12: this is a Test
+2024/07/14 16:23:37 todos.go:27: pq: syntax error at or near "userid"
+2024/07/14 16:24:24 main.go:12: this is a Test
+2024/07/14 16:24:24 todos.go:27: pq: syntax error at or near "userid"
+2024/07/14 16:25:19 main.go:12: this is a Test
+2024/07/14 16:26:54 main.go:12: this is a Test
+2024/07/14 16:40:27 main.go:12: this is a Test
+2024/07/14 18:43:39 main.go:12: this is a Test
+2024/07/14 18:43:39 todos.go:47: pq: column "userid" does not exist
+2024/07/14 18:45:58 main.go:12: this is a Test
