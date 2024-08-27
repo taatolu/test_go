@@ -99,3 +99,5 @@
 2024/07/14 18:43:39 main.go:12: this is a Test
 2024/07/14 18:43:39 todos.go:47: pq: column "userid" does not exist
 2024/07/14 18:45:58 main.go:12: this is a Test
+2024/08/27 16:07:33 base.go:47: dial tcp: lookup test_db on 127.0.0.11:53: no such host
+2024/08/27 16:19:10 main.go:15: listen tcp :808: bind: address already in use
